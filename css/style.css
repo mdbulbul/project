@@ -1,0 +1,284 @@
+.header{
+	
+	min-height: 100px;
+	overflow: hidden;
+	background-color: #121B2A;
+
+}
+.logo{
+	border: 2px solid green;
+	min-height: 75px;
+	float: left;
+	width: 100px;
+	margin-bottom: 3px;
+	margin-top: 40px;
+	margin-left: 15px;
+}
+.banner{
+	border: 2px solid green;
+	min-height: 35px;
+	float: right;
+	width: 80px;
+	margin-bottom: 3px;
+	margin-top: 1px;
+	margin-right: : 15px;
+
+}
+.banner_content{
+	border: 2px solid green;
+	min-height: 35px;
+	float: right;
+	width: 100px;
+	margin-bottom: 3px;
+	margin-top: 1px;
+	margin-right: : 15px;
+
+}
+.menu{
+	border: 2px solid green;
+	min-height: 80px;
+	float: right;
+	width: 700px;
+	margin-bottom: 10px;
+	margin-top: 45px;
+	margin-right: 20px;
+	overflow: hidden;
+
+}
+.sec1{
+	border: 2px solid green;
+	min-height: 60px;
+	float: left;
+	width: 100px;
+	margin-bottom: 3px;
+	margin-top: 9px;
+	margin-left: 15px;
+
+}
+.sec2{
+	border: 2px solid green;
+	min-height: 60px;
+	float: left;
+	width: 100px;
+	margin-bottom: 3px;
+	margin-top: 9px;
+	margin-left: 30px;
+
+}
+.sec3{
+	border: 2px solid green;
+	min-height: 60px;
+	float: left;
+	width: 100px;
+	margin-bottom: 3px;
+	margin-top: 9px;
+	margin-left: 34px;
+
+
+}
+.sec4{
+	border: 2px solid green;
+	min-height: 60px;
+	float: left;
+	width: 100px;
+	margin-bottom: 3px;
+	margin-top: 9px;
+	margin-left: 30px;
+}
+
+
+.sec5{
+	border: 2px solid green;
+	min-height: 60px;
+	float: right;
+	width: 100px;
+	margin-bottom: 3px;
+	margin-top: 9px;
+	margin-right: 40px;
+
+}
+.services{
+	border: 2px solid black;
+	min-height: 300px;
+	overflow: hidden;
+	background-color: #121B2A;
+
+
+}
+.service{
+	border: 2px solid green;
+	min-height: 250px;
+	float: left;
+	width: 360px;
+	margin-left: 50px;
+	margin-top: 25px;
+	background-color: #121B2A;
+}
+.service1{
+	border: 1px solid green;
+	min-height: 297px;
+	width: 300px;
+	overflow: hidden;
+	margin-left: 110px;
+	float: left;
+	background-color: #121B2A;
+}
+.sec6{
+	border: 2px solid green;
+	min-height: 75px;
+	float: left;
+	width: 100px;
+	margin-bottom: 3px;
+	margin-top: 40px;
+	margin-left: 15px;
+
+}
+.sec7{
+	border: 2px solid green;
+	min-height: 50px;
+	float: left;
+	width: 149px;
+	margin-bottom: 3px;
+	margin-top: 52px;
+	margin-left: 15px;
+
+}
+.sec8{
+	border: 2px solid green;
+	min-height: 120px;
+	float: right;
+	width: 230px;
+	margin-bottom: 3px;
+	margin-top: 30px;
+	margin-right: 35px;
+
+}
+.service2{
+	border: 1px solid green;
+	min-height: 297px;
+	width: 300px;
+	overflow: hidden;
+	margin-left: 110px;
+	float: left;
+	background-color: #121B2A;
+}
+.service3{
+	border: 1px solid green;
+	min-height: 297px;
+	width: 300px;
+	overflow: hidden;
+	margin-right: 105px;
+	float: right;
+	background-color: #121B2A;
+}
+.bloge{
+	
+	min-height: 300px;
+	background-color: #121B2A;
+}
+.bloge1{
+	border: 1px solid black;
+	min-height: 300px;
+	background-color: #121B2A;
+
+}
+.sec9{
+	border: 2px solid green;
+	min-height: 240px;
+	float: left;
+	width: 280px;
+	margin-bottom: 63px;
+	margin-top: 30px;
+	margin-left: 119px;
+}
+.sec10{
+	border: 2px solid green;
+	min-height: 160px;
+	float: left;
+	width: 220px;
+	margin-bottom: 3px;
+	margin-top: 38px;
+	margin-left: 30px;
+
+}
+.sec11{
+	border: 2px solid green;
+	min-height: 165px;
+	float: left;
+	width: 90px;
+	margin-bottom: 3px;
+	margin-top: 35px;
+	margin-left: 20px;
+}
+.sec12{
+	border: 2px solid green;
+	min-height: 60px;
+	float: right;
+	width: 144px;
+	margin-bottom: 3px;
+	margin-top: 35px;
+	margin-right: 7px;
+
+}
+.sec13{
+	border: 2px solid green;
+	min-height: 60px;
+	float: right;
+	width: 144px;
+	margin-bottom: 3px;
+	margin-top: 3px;
+	margin-right: 7px;
+}
+.footer{
+	
+    min-height: 130px;
+    background-color: #121B2A;
+    width: 1331px;
+
+}
+.logo1{
+	border: 2px solid green;
+	min-height: 40px;
+	float: left;
+	width: 95px;
+	margin-left: 15px;
+	margin-top: 5px;
+
+
+}
+.com_logo{
+	border: 2px solid green;
+	min-height: 55px;
+	float: left;
+	width: 700px;
+	margin-bottom: 3px;
+	margin-top: -25px;
+	margin-left: 113px;
+	overflow: hidden;
+
+}
+.com_logo1{
+	border: 2px solid green;
+	min-height: 40px;
+	float: left;
+	width: 95px;
+	margin-left: 15px;
+	margin-top: 5px;
+
+}
+.footer_box{
+	border: 2px solid green;
+	min-height: 55px;
+	float: left;
+	width: 200px;
+	margin-left: 43px;
+}
+.footer_box1{
+	border: 2px solid green;
+	min-height: 33px;
+	float: left;
+	width: 399px;
+	margin-left: 112px;
+	margin-top: -11px;
+
+}
